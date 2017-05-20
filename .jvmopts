@@ -1,0 +1,2 @@
+-Dsbt.ivy.home=.ivy2
+-Dsbt.global.staging=.staging
