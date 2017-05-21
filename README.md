@@ -22,7 +22,7 @@ Windows. [Download from Oracle](http://www.oracle.com/technetwork/java/javase/do
 
 
 2. Setup your favourite text editor.
-3. Download dependencies and run "Hello World". Dependencies are about 100MB, so it can take awhile.
+3. Download dependencies and run "Hello World". Dependencies are about 300MB, so it can take awhile.
 
 ```
 ./sbt "runMain us.lambdaconf.HelloWorld"

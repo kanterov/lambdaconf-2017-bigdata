@@ -5,6 +5,8 @@
 
 set -o pipefail
 
+export COURSIER_CACHE=".coursier/cache/v1" # sandbox coursier
+
 declare -r sbt_release_version="0.13.14"
 declare -r sbt_unreleased_version="0.13.14"
 
